@@ -10,3 +10,17 @@ h1,h2,p{
 body{
     background-image: url("./cookingtapiz.png");
 }
+
+.item p {
+    display: inline-block;
+  }
+  
+  .flavor {
+    text-align: left;
+    width: 75%;
+  }
+  
+  .price {
+    text-align: right;
+    width: 25%
+  }
