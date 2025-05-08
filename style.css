@@ -60,5 +60,12 @@ h2{
   }
   .address{
     font-style: normal;
+    margin-bottom: 5px;
   }
- 
+ a{
+  text-decoration: none;
+  color: #DF0B0B;
+ }
+ a:hover{
+  color: #E494B1;
+ }
