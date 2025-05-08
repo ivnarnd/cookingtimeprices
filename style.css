@@ -1,6 +1,12 @@
 h1,h2,p{
     text-align: center;
 }
-body{
+#menu{
     background-color: #FEE1EB;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+body{
+    background-image: url("./cookingtapiz.png");
 }
