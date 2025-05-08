@@ -1,3 +1,7 @@
+@font-face {
+  font-family: "mogena";
+  src: url("./fonts/Mogena.ttf");
+}
 h1,h2,p{
     text-align: center;
 }
@@ -10,9 +14,22 @@ h1,h2,p{
     max-width: 500px;
 }
 body{
+    font-family: sans-serif;
     background-image: url("./cookingtapiz.png");
 }
-
+h1,h2{
+  font-family: "mogena",serif;
+  color: #DF0B0B;
+}
+h1{
+  font-size: 40px;
+}
+h2{
+  font-size: 30px;
+}
+.established{
+  font-style: italic;
+}
 .item p {
     display: inline-block;
   }
