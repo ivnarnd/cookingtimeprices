@@ -17,6 +17,15 @@ body{
     font-family: sans-serif;
     background-image: url("./cookingtapiz.png");
 }
+hr {
+  height: 2px;
+  background-color: #DF0B0B;
+  border-color: #DF0B0B;
+  border-width: 1px;
+}
+.bottom-line{
+  margin-top:25px;
+}
 h1,h2{
   font-family: "mogena",serif;
   color: #DF0B0B;
@@ -32,6 +41,9 @@ h2{
 }
 .item p {
     display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
   }
   
   .flavor {
@@ -43,3 +55,10 @@ h2{
     text-align: right;
     width: 25%
   }
+  footer{
+    font-size: 14px;
+  }
+  .address{
+    font-style: normal;
+  }
+ 
